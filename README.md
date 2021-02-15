@@ -1,6 +1,6 @@
 # FightGame
 
-Desarrollo de un videojuego utilizando la consola de comandos. Implementación de herencia e interfaces para su ejecución.
+Desarrollo de un videojuego utilizando la consola de comandos y Java como lenguaje de programación. Implementación de herencia e interfaces para su ejecución.
 
 El usuario podrá crear un personaje, al cual se le podrá asignar una de las siguientes razas: Orco, Humano, Elfo y Enano. Cada una de estas razas, atributos preestablecidos los cuales son: fuerza, agilidad, resistencia, intelecto y espíritu.
 
